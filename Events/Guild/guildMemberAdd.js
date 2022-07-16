@@ -25,7 +25,7 @@ async execute(member) {
               .setColor("#15ff00")
               .addField(`ID`, `\`\`\`yaml\nUtente: ${member.id}\`\`\``)
               .addField(`Data`, `${dateText}`)
-              .setFooter({text: `Utente ${member.user.tag}`, iconURL: `${member.user.displayAvatarURL()}`})
+              .setFooter({text: `Utente: ${member.user.tag}`, iconURL: `${member.user.displayAvatarURL()}`})
 
                         
         await logsChannel.send({ embeds: [embed] })
