@@ -12,7 +12,7 @@ module.exports = {
 async execute(oldUser, newUser, client) {
     // console.log(oldUser, newUser, client)
 
-const log = ("996769658004852838");
+const log = ("997154504065679531");
 const embed1 = new MessageEmbed()
 
   .setAuthor({name: "Infinity Boost", iconURL: "https://images-ext-1.discordapp.net/external/M7twldjW6_OVrFQPfOI13uhV1uVDvrARIrkFLK1w_H0/https/images-ext-1.discordapp.net/external/pCIwIlkXZ3D7ni5wRW12MXF_NKopaXyP8okYifhE-9Y/https/images-ext-1.discordapp.net/external/NG87DFNmyRqsgO9QxwgLPQf7DTGlGmbUYHsQSol-U9U/https/i.postimg.cc/xjpkWpWS/bac3d9382c97ae8d9728a38b9eb594984f64eb0f915fceeeb1daaf482831431f.gif"})
